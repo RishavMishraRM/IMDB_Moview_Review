@@ -1,4 +1,5 @@
 # IMDB_Moview_Review
+<img src="imdb.jpg">
 
 Sentiment analysis on IMDB movie reviews
 
